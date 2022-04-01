@@ -2,7 +2,6 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <packaging>pom</packaging>
 
     <parent>
         <groupId>com.gunyoung.common</groupId>
@@ -14,7 +13,7 @@
     <artifactId>jommon</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>jommon</name>
-    <description>jommon</description>
+    <packaging>pom</packaging>
 
     <modules>
         <module>jommon-api</module>
@@ -151,7 +150,7 @@
     <repositories>
         <repository>
             <id>gunyoung-release</id>
-            <url>https://github.com/Gunyoung-Kim/maven-repo/tree/master/repo/releases</url>
+            <url>https://raw.githubusercontent.com/Gunyoung-Kim/maven-repo/master/repo/releases</url>
         </repository>
     </repositories>
 
