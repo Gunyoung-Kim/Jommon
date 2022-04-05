@@ -5,7 +5,7 @@
     <parent>
         <artifactId>jommon</artifactId>
         <groupId>com.gunyoung</groupId>
-        <version>0.0.3-SNAPSHOT</version>
+        <version>0.0.2</version>
     </parent>
 
     <artifactId>jommon-api</artifactId>
@@ -15,7 +15,7 @@
         <dependency>
             <groupId>com.gunyoung</groupId>
             <artifactId>jommon-common</artifactId>
-            <version>0.0.3-SNAPSHOT</version>
+            <version>0.0.2</version>
         </dependency>
     </dependencies>
 
