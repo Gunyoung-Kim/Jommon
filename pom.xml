@@ -35,17 +35,17 @@
             <dependency>
                 <groupId>com.gunyoung</groupId>
                 <artifactId>jommon-api</artifactId>
-                <version>0.0.1</version>
+                <version>${project.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.gunyoung</groupId>
                 <artifactId>jommon-common</artifactId>
-                <version>0.0.1</version>
+                <version>${project.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.gunyoung</groupId>
                 <artifactId>jommon-view</artifactId>
-                <version>0.0.1</version>
+                <version>${project.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.mapstruct</groupId>
