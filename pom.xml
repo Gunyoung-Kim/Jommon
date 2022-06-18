@@ -10,7 +10,7 @@
 
     <groupId>com.gunyoung</groupId>
     <artifactId>jommon</artifactId>
-    <version>0.0.3-RB-SNAPSHOT</version>
+    <version>0.0.3</version>
     <name>jommon</name>
     <packaging>pom</packaging>
 
