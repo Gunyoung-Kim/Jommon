@@ -10,7 +10,7 @@
 
     <groupId>com.gunyoung</groupId>
     <artifactId>jommon</artifactId>
-    <version>0.0.4</version>
+    <version>0.0.5-SNAPSHOT</version>
     <name>jommon</name>
     <packaging>pom</packaging>
 
@@ -35,17 +35,17 @@
             <dependency>
                 <groupId>com.gunyoung</groupId>
                 <artifactId>jommon-api</artifactId>
-                <version>0.0.4</version>
+                <version>0.0.5-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>com.gunyoung</groupId>
                 <artifactId>jommon-common</artifactId>
-                <version>0.0.4</version>
+                <version>0.0.5-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>com.gunyoung</groupId>
                 <artifactId>jommon-view</artifactId>
-                <version>0.0.4</version>
+                <version>0.0.5-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>org.mapstruct</groupId>
