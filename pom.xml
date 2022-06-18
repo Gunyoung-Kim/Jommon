@@ -5,7 +5,7 @@
     <parent>
         <groupId>com.gunyoung.common</groupId>
         <artifactId>gvc4j</artifactId>
-        <version>0.0.6</version>
+        <version>0.0.8</version>
     </parent>
 
     <groupId>com.gunyoung</groupId>
